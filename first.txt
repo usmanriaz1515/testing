@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hiii 
+=======
+Hello World
+>>>>>>> parent of 753e9de... updated first.txt
